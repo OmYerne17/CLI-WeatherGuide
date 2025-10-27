@@ -1,0 +1,17 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "openai": "^6.6.0",
+    "openmeteo": "^1.2.1",
+    "readline-sync": "^1.4.10"
+  }
+}
