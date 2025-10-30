@@ -33,7 +33,7 @@ A sophisticated **AI-powered weather forecast agent** that provides detailed wea
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/OmYerne17/CLI-WeatherGuide
 cd Agent
 
 # Install dependencies
